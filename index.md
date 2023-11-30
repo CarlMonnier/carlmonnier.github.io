@@ -3,7 +3,8 @@ layout: default
 title:  "Site web de Carl Monnier"
 ---
 
-  {% for post in site.posts %}
+</br>
+{% for post in site.posts %}
   <article>
     <h2>
       <a href="{{ post.url }}">
