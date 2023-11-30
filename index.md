@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "Site web de Carl Monnier"
+---
+
 <ul>
   {% for post in site.posts %}
     <li>
