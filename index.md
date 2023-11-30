@@ -3,7 +3,7 @@ layout: default
 title:  "Site web de Carl Monnier"
 ---
 
-</br>
+<br/>
 {% for post in site.posts %}
   <article>
     <h2>
